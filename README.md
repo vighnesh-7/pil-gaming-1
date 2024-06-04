@@ -6,8 +6,8 @@
 
 ### 1. Cloning the Repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/vighnesh-7/pil-gaming-1
+cd pil-gaming-1
 ```
 
 ### 2. Installation:
