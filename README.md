@@ -47,13 +47,14 @@ The application uses the following APIs for backend functionality:
   - Response: `{ success: boolean, message: string, token?: string }`
 
 - **Get User**: `GET @actions/user.ts`
-  - Response: `{ name: string }`
+  - Response: `{ name:string, email:string, username: string, password: string,createdAt: DateTime }`
 
 For detailed API documentation, please refer to the `/api` directory in the repository.
 
 
 ## Technologies Used
 
+- TailWind CSS
 - Next.js
 - PostgreSQL 
 - Node.js
